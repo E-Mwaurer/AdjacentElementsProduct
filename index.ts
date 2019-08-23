@@ -3,7 +3,7 @@ import './style.css';
 
 // Write TypeScript code!
 const appDiv: HTMLElement = document.getElementById('app');
-appDiv.innerHTML = `<h1>TypeScript Starter</h1>`;
+appDiv.innerHTML = `<h1>Algorithm challenge 5</h1>`;
 
 /* function adjacentElementsProduct(inputArray: number[]): number {
 
